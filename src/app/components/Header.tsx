@@ -43,7 +43,7 @@ export function Header() {
                 <div className="flex flex-col items-center space-y-4 bg-black text-white py-4 md:hidden">
                     <a href="/" className="hover:text-amber-800 font-mono">Sobre</a>
                     <a href="/projects" className="hover:text-amber-800 font-mono">Projetos</a>
-                    <a href="#" className="hover:text-amber-800 font-mono">Resumo</a>
+                    <a href="/summary" className="hover:text-amber-800 font-mono">Resumo</a>
                     <div className="flex space-x-4 items-center">
                         <a href="https://github.com/matheus-webp" target='_blank'>
                             <Image src={"/assets/github.svg"} alt="Github Icon" width={24} height={24} />
