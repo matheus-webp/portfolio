@@ -9,13 +9,13 @@ Para visualizar este portfólio localmente, siga estes passos:
 1. **Clone o repositório**:
 
     ```bash
-    git clone [https://github.com/matheus-webp/portfolio.git]
+    git clone https://github.com/matheus-webp/portfolio.git
     ```
 
 2. **Navegue até o diretório do projeto**:
 
     ```bash
-    cd [portfolio]
+    cd portfolio
     ```
 
 3. **Instale as dependências**:
